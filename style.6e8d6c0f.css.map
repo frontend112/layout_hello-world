@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,EACE,SAAU,CACV,QACF,CAEA,KACE,UACF","file":"style.6e8d6c0f.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n* {\n  padding: 0;\n  margin: 0;\n}\n\nbody {\n  margin: 8px;\n}\n"]}
